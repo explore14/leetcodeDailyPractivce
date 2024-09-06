@@ -1,2 +1,3 @@
 # leetcodeDailyPractice
-Daily Practice and coding questions
+This repo is about my daily practice and contest solution tracking
+
